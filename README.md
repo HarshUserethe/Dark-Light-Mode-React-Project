@@ -19,8 +19,8 @@ The Dark/Light Mode Switcher project showcases the power of React and the Contex
 
 
 ##  Trailer
-![](https://github.com/HarshUserethe/Dark-Light-Mode-React-Project/blob/main/trailer.gif)
-
+![App Screenshot](
+![](https://github.com/HarshUserethe/Dark-Light-Mode-React-Project/blob/main/trailer.gif))
 
 
 # React + Vite
