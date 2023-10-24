@@ -19,7 +19,7 @@ The Dark/Light Mode Switcher project showcases the power of React and the Contex
 
 
 ##  Trailer
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/HarshUserethe/Dark-Light-Mode-React-Project/blob/main/trailer.gif)
 
 
 
